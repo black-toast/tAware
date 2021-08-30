@@ -1,0 +1,3 @@
+[submodule "xHook"]
+	path = xHook
+	url = git@github.com:iqiyi/xHook.git
